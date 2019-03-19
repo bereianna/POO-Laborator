@@ -1,0 +1,6 @@
+D:\Documents\Panni\universirate\Tuse\POO\stelute\stelute\bin\Debug\stelute.exe.config
+D:\Documents\Panni\universirate\Tuse\POO\stelute\stelute\bin\Debug\stelute.exe
+D:\Documents\Panni\universirate\Tuse\POO\stelute\stelute\bin\Debug\stelute.pdb
+D:\Documents\Panni\universirate\Tuse\POO\stelute\stelute\obj\Debug\stelute.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Tuse\POO\stelute\stelute\obj\Debug\stelute.exe
+D:\Documents\Panni\universirate\Tuse\POO\stelute\stelute\obj\Debug\stelute.pdb

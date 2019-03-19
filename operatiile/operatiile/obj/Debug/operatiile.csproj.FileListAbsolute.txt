@@ -1,0 +1,6 @@
+D:\Documents\Panni\universirate\Tuse\POO\operatiile\operatiile\bin\Debug\operatiile.exe.config
+D:\Documents\Panni\universirate\Tuse\POO\operatiile\operatiile\bin\Debug\operatiile.exe
+D:\Documents\Panni\universirate\Tuse\POO\operatiile\operatiile\bin\Debug\operatiile.pdb
+D:\Documents\Panni\universirate\Tuse\POO\operatiile\operatiile\obj\Debug\operatiile.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Tuse\POO\operatiile\operatiile\obj\Debug\operatiile.exe
+D:\Documents\Panni\universirate\Tuse\POO\operatiile\operatiile\obj\Debug\operatiile.pdb

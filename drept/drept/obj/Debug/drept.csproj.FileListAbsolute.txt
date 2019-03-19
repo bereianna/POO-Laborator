@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\Tuse\POO\drept\drept\bin\Debug\drept.exe.config
+D:\Documents\Panni\universirate\Tuse\POO\drept\drept\bin\Debug\drept.exe
+D:\Documents\Panni\universirate\Tuse\POO\drept\drept\bin\Debug\drept.pdb
+D:\Documents\Panni\universirate\Tuse\POO\drept\drept\obj\Debug\drept.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Tuse\POO\drept\drept\obj\Debug\drept.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Tuse\POO\drept\drept\obj\Debug\drept.exe
+D:\Documents\Panni\universirate\Tuse\POO\drept\drept\obj\Debug\drept.pdb

@@ -1,0 +1,7 @@
+D:\Documents\Panni\universirate\Tuse\POO\HWorld\HWorld\obj\Debug\HWorld.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Tuse\POO\HWorld\HWorld\obj\Debug\HWorld.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Tuse\POO\HWorld\HWorld\bin\Debug\HWorld.exe.config
+D:\Documents\Panni\universirate\Tuse\POO\HWorld\HWorld\bin\Debug\HWorld.exe
+D:\Documents\Panni\universirate\Tuse\POO\HWorld\HWorld\bin\Debug\HWorld.pdb
+D:\Documents\Panni\universirate\Tuse\POO\HWorld\HWorld\obj\Debug\HWorld.exe
+D:\Documents\Panni\universirate\Tuse\POO\HWorld\HWorld\obj\Debug\HWorld.pdb
